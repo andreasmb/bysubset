@@ -14,7 +14,8 @@ then open http://localhost:8000
 
 ## Deploy
 
-Upload everything except the `_`-prefixed folders and `tools/` to the bysubset.com web directory on DreamHost.
+Hosted on GitHub Pages from `main`, custom domain in `CNAME`. Pushing to `main` deploys.
+DNS for bysubset.com is managed at DreamHost.
 
 ## tools/
 
